@@ -36,10 +36,13 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 ## 📲 Contact me...
 
 <p align="center">	
-  <a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/telegram-new.png"/></a>
-	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+  <a href="https://www.linkedin.com/in/a7med-rf"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+  <a href="https://wa.me/00201014821864?text=Hello,%20Let%27s%20developing%20and%20coding!"><img alt="whatsapp" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/>
+  <a href="https://t.me/ahmedredag"><img alt="telegram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/telegram-app"/></a>
+  <a href="https://www.facebook.com/a7med.rf"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/>
+</a>	
+	
+</a>
 </p>
 
 
@@ -62,7 +65,7 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 
 ## ✍️ Random Dev Quote
 <p align="center">
- <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" alt="quote-snippet"/>
+ <img src="quote.jpg" alt="quote-snippet"/>
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
