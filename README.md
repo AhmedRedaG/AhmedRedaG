@@ -13,7 +13,9 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 - 🔭 Currently working on expanding my backend development expertise
 - 🌱 Learning more about system design and microservices architecture
 - 💡 Open to collaborating on interesting backend projects
-- 🎯 2025 Goals: Contribute more to open source projects
+- 🎯 2025 Goals:
+  - Land an internship to gain real-world development experience
+  - Work on production-level projects to understand development processes
 
 ## Tech Stack
 
@@ -57,6 +59,7 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 
 ## Current Learning Focus
 
+- NestJS Framework
 - Advanced System Design Patterns
 - Microservices Architecture
 - Cloud Infrastructure (AWS)
