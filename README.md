@@ -4,8 +4,6 @@
   <img src="animation.gif" alt="animation.gif">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## About Me
 
 As a dedicated student at the Faculty of Computers and Artificial Intelligence, I'm a passionate Backend Developer from Egypt, focused on building robust and scalable server-side applications. With a strong foundation in Node.js and modern web technologies, I specialize in creating efficient APIs and maintaining high-performance database systems.
@@ -69,8 +67,8 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&cache_seconds=0&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Let's Connect!
