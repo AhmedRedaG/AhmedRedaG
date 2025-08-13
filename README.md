@@ -70,7 +70,7 @@ As a dedicated student at the Faculty of Computers and Artificial Intelligence, 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark"/>
 </div>
 
 ## Let's Connect!
