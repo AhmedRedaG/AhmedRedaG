@@ -1,9 +1,5 @@
 # Hi there, I'm Ahmed Reda 👋
 
-<div align="center">
-  <img src="animation.gif" alt="animation.gif">
-</div>
-
 ## About Me
 
 As a dedicated student at the Faculty of Computers and Artificial Intelligence, I'm a passionate Backend Developer from Egypt, focused on building robust and scalable server-side applications. With a strong foundation in Node.js and modern web technologies, I specialize in creating efficient APIs and maintaining high-performance database systems.
@@ -89,3 +85,7 @@ I'm always interested in connecting with fellow developers and discussing exciti
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmedredag)
 
 ---
+
+<div align="center">
+  <img src="animation.gif" alt="animation.gif">
+</div>
