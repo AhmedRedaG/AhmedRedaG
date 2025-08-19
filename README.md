@@ -2,7 +2,7 @@
 
 ## About Me
 
-As a dedicated student at the Faculty of Computers and Artificial Intelligence, I'm a passionate Backend Developer from Egypt, focused on building robust and scalable server-side applications. With a strong foundation in Node.js and modern web technologies, I specialize in creating efficient APIs and maintaining high-performance database systems.
+I am a computer science student and backend developer, focused on understanding the how and why behind technologies to build efficient, high-performance solutions. Skilled in data structures, algorithms and problem solving, I have solved 500+ challenges on Codeforces and LeetCode. I have experience in databases and backend development through four projects totaling over 10,000 lines of code.
 
 - 🔭 Currently working on expanding my backend development expertise
 - 🌱 Learning more about system design and microservices architecture
