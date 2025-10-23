@@ -63,8 +63,8 @@ I am a computer science student and backend developer, focused on understanding 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&cache_seconds=0&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Let's Connect!
