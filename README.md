@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a computer science student and backend developer, focused on understanding the how and why behind technologies to build efficient, high-performance solutions. Skilled in data structures, algorithms and problem solving, I have solved 500+ challenges on Codeforces and LeetCode. I have experience in databases and backend development through four projects totaling over 10,000 lines of code.
+I am a computer science student and backend developer, focused on understanding the how and why behind technologies to build efficient, high-performance solutions. 
+Skilled in data structures, algorithms, and problem solving, I have solved 500+ challenges on Codeforces and LeetCode. 
+Across four backend projects, I developed and maintained large codebases with a focus on performance, security, and clean architecture.
 
 - 🔭 Currently working on expanding my backend development expertise
 - 🌱 Learning more about system design and microservices architecture
@@ -63,8 +65,8 @@ I am a computer science student and backend developer, focused on understanding 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRedaG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-rho-orcin.vercel.app/api?username=AhmedRedaG&hide=issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-rho-orcin.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Let's Connect!
