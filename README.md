@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=26&pause=1000&width=435&lines=+Hi+there%2C+I'm+Ahmed+Reda;Backend+developer+with+a+purpose;I+build+logic+that+scales)](https://git.io/typing-svg)
+# Hi there, I'm Ahmed Reda 👋
+
 ## About Me
 
 I am a computer science student and backend developer, focused on understanding the how and why behind technologies to build efficient, high-performance solutions. Skilled in data structures, algorithms and problem solving, I have solved 500+ challenges on Codeforces and LeetCode. I have experience in databases and backend development through four projects totaling over 10,000 lines of code.
