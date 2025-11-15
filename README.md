@@ -51,15 +51,6 @@ Across four backend projects, I developed and maintained large codebases with a 
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
-## Current Learning Focus
-
-- Advanced NestJS
-- Advanced System Design Patterns
-- Microservices Architecture
-- Cloud Infrastructure (AWS)
-- Performance Optimization
-- Advanced Security Practices
-
 ## GitHub Stats
 
 <div align="center">
