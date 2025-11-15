@@ -20,9 +20,11 @@ Across four backend projects, I developed and maintained large codebases with a 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
 
 ### Databases
 
@@ -36,7 +38,6 @@ Across four backend projects, I developed and maintained large codebases with a 
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-4A90E2?style=flat-square)
 ![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/-Bcrypt-00599C?style=flat-square)
 
 ### Tools & Technologies
 
@@ -55,7 +56,7 @@ Across four backend projects, I developed and maintained large codebases with a 
 
 ## Current Learning Focus
 
-- NestJS Framework
+- Advanced NestJS
 - Advanced System Design Patterns
 - Microservices Architecture
 - Cloud Infrastructure (AWS)
@@ -65,8 +66,9 @@ Across four backend projects, I developed and maintained large codebases with a 
 ## GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-rho-orcin.vercel.app/api?username=AhmedRedaG&hide=issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-rho-orcin.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  height="200em" src="https://github-readme-rho-orcin.vercel.app/api?username=AhmedRedaG&hide=issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Status"/>
+  <img height="200em" src="https://github-readme-rho-orcin.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Top Langs"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedRedaG&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## Let's Connect!
