@@ -9,9 +9,6 @@ Across four backend projects, I developed and maintained large codebases with a 
 - 🔭 Currently working on expanding my backend development expertise
 - 🌱 Learning more about system design and microservices architecture
 - 💡 Open to collaborating on interesting backend projects
-- 🎯 2025 Goals:
-  - Land an internship to gain real-world development experience
-  - Work on production-level projects to understand development processes
 
 ## Tech Stack
 
