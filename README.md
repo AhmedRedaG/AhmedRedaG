@@ -66,9 +66,9 @@ Across four backend projects, I developed and maintained large codebases with a 
 ## GitHub Stats
 
 <div align="center">
-  <img  height="200em" src="https://github-readme-rho-orcin.vercel.app/api?username=AhmedRedaG&hide=issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Status"/>
-  <img height="200em" src="https://github-readme-rho-orcin.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Top Langs"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedRedaG&theme=dark" alt="GitHub Streak"/>
+  <img  height="150em" src="https://github-readme-rho-orcin.vercel.app/api?username=AhmedRedaG&hide=issues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Status"/>
+  <img height="150em" src="https://github-readme-rho-orcin.vercel.app/api/top-langs/?username=AhmedRedaG&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Top Langs"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=AhmedRedaG&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ## Let's Connect!
