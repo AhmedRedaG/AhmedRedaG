@@ -30,6 +30,7 @@ Across four backend projects, I developed and maintained large codebases with a 
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white)
 
 ### Authentication & Security
 
