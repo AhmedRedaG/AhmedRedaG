@@ -63,7 +63,7 @@ Across four backend projects, I developed and maintained large codebases with a 
 
 ## Let's Connect!
 
-I'm always interested in connecting with fellow developers and discussing exciting projects. Feel free to reach out if you'd like to:
+I'm always interested in connecting with fellow developers and discussing exciting projects. Feel free to reach out to me on:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedRedaG)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedrf.dev@gmail.com)
