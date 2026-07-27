@@ -2,14 +2,13 @@
 
 ## About Me
 
-I am a computer science student and backend developer, focused on understanding the how and why behind technologies to build efficient, high-performance solutions. 
-Skilled in data structures, algorithms, and problem solving, I have solved 500+ challenges on Codeforces and LeetCode. 
-Across four backend projects, I developed and maintained large codebases with a focus on performance, security, and clean architecture.
+Backend Engineer and Freelance Team Lead with a track record of architecting, developing, and delivering production-grade solutions. Proficient in Node.js ecosystem and modern DevOps practices. Combines problem-solving skills with practical experience in system design to build secure and scalable software.
 
-- 🔭 Currently working on expanding my backend development expertise
+- 🔭 Currently seeking a backend development role to apply my skills and grow professionally
 - 🌱 Learning more about system design and microservices architecture
 - 💡 Open to collaborating on interesting backend projects
 
+<!-- 
 ## Tech Stack
 
 ### Languages & Frameworks
@@ -52,6 +51,8 @@ Across four backend projects, I developed and maintained large codebases with a 
 ![Supertest](https://img.shields.io/badge/-Supertest-43853D?style=flat-square&logo=mocha&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+-->
 
 ## GitHub Stats
 
